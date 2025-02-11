@@ -1,5 +1,5 @@
 {
-  "name": "check-biometric-auth-changed",
+  "name": "electron-check-biometric-auth-changed",
   "version": "0.0.1",
   "description": "Query and handle native macOS biometric authentication changes.",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huhuanming/check-biometric-auth-changed.git"
+    "url": "git+https://github.com/huhuanming/electron-check-biometric-auth-changed.git"
   },
   "keywords": [
     "auth",
@@ -25,9 +25,9 @@
   "author": "huhuanming",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huhuanming/check-biometric-auth-changed/issues"
+    "url": "https://github.com/huhuanming/electron-check-biometric-auth-changed/issues"
   },
-  "homepage": "https://github.com/huhuanming/check-biometric-auth-changed#readme",
+  "homepage": "https://github.com/huhuanming/electron-check-biometric-auth-changed#readme",
   "dependencies": {
     "bindings": "^1.5.0",
     "node-addon-api": "^7.1.0"
