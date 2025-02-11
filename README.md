@@ -1,4 +1,4 @@
-# check-biometric-auth-changed
+# electron-check-biometric-auth-changed
 
 A native node module that allows you to query and handle native macOS biometric authentication changes.
 
